@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+
 ![Screenshot (77)](https://github.com/user-attachments/assets/0593fd00-8abb-4659-9ac4-27bb4a239ab6)
 
 ### Name:Madhu Shrie J
